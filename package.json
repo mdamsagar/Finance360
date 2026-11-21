@@ -1,0 +1,11 @@
+{
+  "name": "finance360-degree",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Finance360° — Personal Asset & Liability Balance Sheet Tracker",
+  "author": "MD. APPEL MAHMUD SAGAR",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo \"Static site ready for Vercel\""
+  }
+}

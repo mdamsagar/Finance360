@@ -1,0 +1,9 @@
+{
+  "name": "Finance360° — Personal Asset & Liability Tracker",
+  "short_name": "Finance360°",
+  "description": "Personal Asset & Liability Balance Sheet Tracker. Developed by MD. APPEL MAHMUD SAGAR.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061224",
+  "theme_color": "#061224"
+}
